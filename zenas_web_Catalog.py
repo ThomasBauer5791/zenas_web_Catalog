@@ -1,3 +1,4 @@
 # setup of a new streamlit app
-import Streamlit
-import Snowflake.connector
+import streamlit
+import snowflake.connector
+streamlit.title('The Menue')
